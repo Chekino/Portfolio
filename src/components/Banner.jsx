@@ -27,16 +27,15 @@ export const Banner = () => {
               </h2>
 
               <h5 style={{ fontSize: "18px", lineHeight: "1.6" }}>
-                Étudiant en troisième année de Licence et Freelance avec plus de
-                2 ans d'expérience en développement web FullStack. Passionné par
-                la création de sites web dynamiques et d'applications web
-                interactives, je suis motivé par la conception de produits
-                innovants et fonctionnels. Mon parcours académique m'a appris
-                l'importance de l'apprentissage continu dans un domaine en
-                constante évolution. Enthousiaste à relever de nouveaux défis et
-                à collaborer avec d'autres professionnels, je suis ouvert à des
-                opportunités de collaboration. N'hésitez pas à me contacter pour
-                en discuter.
+                Étudiant en Master et Freelance avec 2 ans d'expérience en
+                développement web FullStack. Passionné par la création de sites
+                web dynamiques et d'applications web interactives, je suis
+                motivé par la conception de produits innovants et fonctionnels.
+                Mon parcours académique m'a appris l'importance de
+                l'apprentissage continu dans un domaine en constante évolution.
+                Enthousiaste à relever de nouveaux défis et à collaborer avec
+                d'autres professionnels, je suis ouvert à des opportunités de
+                collaboration. N'hésitez pas à me contacter pour en discuter.
               </h5>
             </div>
           </Col>
@@ -48,7 +47,6 @@ export const Banner = () => {
         </Row>
       </Container>
     </section>
-  
   );
 };
 
